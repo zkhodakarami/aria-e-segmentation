@@ -1,0 +1,5 @@
+# MONAI nnUNetV2Runner input config - ARIA-E FLAIR lesion segmentation
+modality: MRI
+datalist: configs/datalist.json
+dataroot: /path/to/nnunet/staging
+dataset_name_or_id: 501
